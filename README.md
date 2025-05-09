@@ -18,7 +18,4 @@ The system downloads the video, extracts the audio, transcribes it using Whisper
 - 💬 **Q&A Agent** built on LangChain and OpenAI
 - 🌐 **Streamlit Web Interface** with styled chat
 
----
-
-## 📦 Installation
 
